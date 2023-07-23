@@ -1,3 +1,12 @@
+/*Question 9: Java Dequeue
+
+Skill Mapping: Basic
+
+Description: Solve the HackerRank Problem given as a link below -
+
+https://www.hackerrank.com/challenges/java-dequeue/problem
+*/
+
 import java.util.*;
 public class Dequeue {
 
