@@ -1,5 +1,5 @@
 import java.util.*;
-class Solution{
+class ValidParanthesis{
     public static void main(String []argh)
     {
         Scanner sc = new Scanner(System.in);
