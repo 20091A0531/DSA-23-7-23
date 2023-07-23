@@ -1,3 +1,18 @@
+/*Question 5: Merge and Sort the elements in two Linked-List
+
+Skill Mapping: Intermediate
+
+Description: Consider two Linked-List with N number of integers in Data-Node respectively.
+
+Task 1- WAP in Java to merge both Linked-Lists.
+
+Task 2 - Sort the output Linked-List basis of its Data-Node in ascending order.
+
+Sample input: Linked-List-1:- 25->35->12->4->36->48
+
+Linked-List-2:- 8->32->22->45->63->49
+
+Output:- 4->8->12->22->25->32->35->36->45->48->49->63 */
 import java.util.*;
 
 public class MergeSortLinked {
